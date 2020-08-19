@@ -2,3 +2,7 @@
 
 - today review, week review, webskills-solution 등의 repository 생성
 - 과제 내용 정리
+  - [ ] 서울
+  - [ ] 광주
+  - [ ] 대구
+- [ ]Github 사용법 교육
